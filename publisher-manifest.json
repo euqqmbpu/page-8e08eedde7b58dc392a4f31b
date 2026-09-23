@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ebbaac656cd68c3f60dd6683",
+  "owner": "euqqmbpu",
+  "repo": "page-8e08eedde7b58dc392a4f31b",
+  "title": "卷王机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8e08eedde7b58dc392a4f31b",
+      "a": "卷王机场",
+      "b": "机场官网线路发布页",
+      "entity": "卷王机场",
+      "brand": "卷王机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "15c451b5f8ac0c5a5a50caeffa6086faed36701ef470be58a54df6db4ce75c76",
+      "content": {
+        "primary_entity": "卷王机场",
+        "keyword1": "卷王机场",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，卷王机场提供基础版、旗舰版与团队版三档订阅，月付 ¥15 起，年付更省。每月 100GB 到 1000GB 流量，支持 3 至 20 台设备同时在线，从普通节点到 IPLC 专线逐级满足流媒体与游戏加速需求。",
+          "AI_HERO_SUBTITLE": "三档订阅，按设备与流量选",
+          "AI_HERO_INTRO": "卷王机场专注海外网络加速订阅，基础版、旗舰版与团队版覆盖个人到团队场景。月付 ¥15 起，年付享优惠，流量从 100GB 到 1000GB，设备数 3 到 20 台，线路从普通节点到 IPLC 专线逐级优化。",
+          "AI_VISUAL_TITLE": "卷王机场订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付价格更省，低至 ¥150/年",
+          "AI_HIGHLIGHT_3": "节点池随套餐升级而增强",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURES_INTRO": "根据设备数量与流量需求选择对应版本，订阅周期影响价格与权益。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可 20 台同时在线。",
+          "AI_FEATURE_TITLE_2": "流量与线路分级",
+          "AI_FEATURE_TEXT_2": "100GB 普通线路到 1000GB VIP 高带宽节点，按需选择。",
+          "AI_FEATURE_TITLE_3": "年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，比月付节省。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选择对应订阅客户端，导入订阅链接即可使用，具体支持情况以客户端说明为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与专线，团队版面向多设备高流量场景。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从选套餐到配置订阅，按步骤完成即可连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与套餐设备数上限，确保满足同时在线需求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档完成设置并连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "卷王机场套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "可联系支持了解升级或变更方式，不同版本权益按当前订阅周期计算。",
+          "AI_FAQ_QUESTION_2": "一个账号最多几台设备同时用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台，超出可能影响连接。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付价格更低，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FAQ_QUESTION_4": "100GB 流量够日常使用吗？",
+          "AI_FAQ_ANSWER_4": "基础版适合浏览与轻度视频，若常看高清流媒体可考虑旗舰版 300GB。",
+          "AI_FAQ_QUESTION_5": "团队版支持定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版提供企业定制路由与专属客户经理，适合多设备协同场景。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_CLOSING_TEXT": "根据设备数和流量需求选定版本，按客户端文档配置订阅即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "6w4jga.cn",
+    "host": "6w4jga.cn"
+  },
+  "file_hashes": {
+    "index.html": "71b72cd3eaa8d341b8728a0e5318b3dfae9529716977d6c4ed6d82228b5a96d9",
+    "sitemap.xml": "3820469b139b0a4a2ba111c7c75239aaacb3d0815d68cb739f8ff558c9ed6c39",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9e7f84a62fe3d85395671d004cc2ed4471a7156c77a240ece6c07f05cf2b6d75",
+    "robots.txt": "87d599936c146a1ac31b433b90454d0441f41c55d47cfaba51bb1c32589d22f5",
+    "04ccd53f5682693982cbc5c61b49e5cc.txt": "363e6e2e322fc843ebaa81d3d3eb75ca6513e157215ed293d0f8623b8aed2428"
+  },
+  "revision": "50f76b0e77ae6c867eaad7e0104ff74bd02cb36639a00132593c242f3ed2ed5e"
+}
